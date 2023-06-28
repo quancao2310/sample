@@ -5,14 +5,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+    - [Built with](#built-with)
+    - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
+### Screenshot
+
 ![Screenshot](https://github.com/quancao2310/sample/assets/99309814/6a7c6603-c4d6-4c23-92d7-8ab5174ef02b)
+
+### Links
+
+- Solution URL: https://github.com/quancao2310/sample
+- Live Site URL: https://quancao2310.github.io/sample/
 
 ## My process
 
